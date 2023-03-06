@@ -78,6 +78,14 @@ N/A
 
    ![step7](./assets/images/7.png)
 
+## Walkthrough video
+
+This video shows the functionality of the app:
+
+[Watch on Loom](https://www.loom.com/share/b595c6f96d2f47458690d38bf334ab68)
+
+[Watch on Google Drive](https://drive.google.com/file/d/1ZOhshmZMlCq5jn-MAZaBm7xhbMKtVm-U/view?usp=share_link)
+
 ## Credits
 
 Here are some techonlogies used in this project: Uses the [Inquirer package](https://www.npmjs.com/package/inquirer/v/8.2.4), Has a .gitignore file and includes node_modules/ and .DS_Store/ so that the node_modules directory isn't tracked or uploaded to GitHub. And the repo includes a package.json with the required dependencies.
